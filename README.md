@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📝 I regularly write articles on [Medim](https://medium.com/@mr.ansh667)
+- 📝 I regularly write articles on [Medium](https://medium.com/@mr.ansh667)
 
 - 📫 How to reach me **mr.ansh667@gmail.com**
 
